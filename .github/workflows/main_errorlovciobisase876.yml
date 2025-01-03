@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'errorlovciobisase876'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_039230D2202C47BEB6053204DEC7B76E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2598720D05B9405692DB7E76D64A2479 }}
           package: .
